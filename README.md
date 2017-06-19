@@ -31,3 +31,15 @@ Things you may want to cover:
 - Blog
 - Portfolio
 - Drag and drop interface
+
+### Code Example
+
+```ruby
+def my_great_method
+puts "here is is"
+end
+```
+
+```javascript
+alert ("Hi there")
+```
