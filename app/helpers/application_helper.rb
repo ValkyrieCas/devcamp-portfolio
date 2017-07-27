@@ -17,6 +17,12 @@ module ApplicationHelper
   end
 
   def copyright_generator
+<<<<<<< HEAD
     BrickerViewTool::Renderer.copyright 'Kiersten Bricker', 'All rights reserved'
   end
 end
+=======
+   BrickerViewTool::Renderer.copyright 'Kiersten Bricker', 'All rights reserved'
+  end
+end
+>>>>>>> rubygem
